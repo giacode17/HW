@@ -27,7 +27,7 @@ void displayArray(int *arrayPtr, int size) {
     cout << endl;     
 
 }
-
+//swap
 void swapElements(int *x, int*y) {
     int temp;
     
